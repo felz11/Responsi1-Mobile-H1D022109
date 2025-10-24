@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use an AppCompat descendant because the app uses AppCompat widgets -->
+    <style name="Theme.Responsi1MobileH1D022109" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>

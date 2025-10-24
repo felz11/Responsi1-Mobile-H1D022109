@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FC St. Pauli Info</string>
+    <string name="club_history">Club History</string>
+    <string name="head_coach">Head Coach</string>
+    <string name="team_squad">Team Squad</string>
+    <string name="loading">Loading…</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="no_data">No data available</string>
+    <string name="fc_st_pauli">FC St. Pauli 1910</string>
+</resources>
